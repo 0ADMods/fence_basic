@@ -1,0 +1,9 @@
+{
+    "name": "fence_basic",
+    "version": "0.0.17",
+    "label": "Wooden fence",
+    "url": "wildfiregames.com/forum/?showtopic=18988&p=296155",
+    "description": "A wooden fence out of two posts and two planks.",
+    "dependencies": ["0ad=0.0.17"],
+    "type": "content.object"
+}

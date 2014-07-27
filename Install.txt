@@ -1,0 +1,8 @@
+To use this object, copy and past in the following folders :
+
+block_4.dae > public\art\meshes\props
+block_4.png > public\art\textures\skins\props
+block_4_ico.png > public\art\textures\ui\session\portraits\structures
+block_4.xml > public\art\actors\structures
+block_4_entity.xml > public\simulation\templates\other
+template_unit_support_female_citizen.xml > public\simulation\templates

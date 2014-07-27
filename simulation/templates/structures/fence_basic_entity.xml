@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defense_wall">
+	<Cost>
+		<BuildTime>12</BuildTime>
+		<Resources>
+		  <wood>5</wood>
+		</Resources>
+	</Cost>
+	<Footprint>
+		<Square width="8.0" depth="2.0"/>
+		<Height>2.0</Height>
+	</Footprint>
+	<Health>
+		<Max>200</Max>
+		<SpawnEntityOnDeath disable=""/>
+	</Health>
+	<Identity>
+		<Civ>gaia</Civ>
+		<SpecificName>Small fence</SpecificName>
+		<GenericName>Small fence</GenericName>
+		<Classes datatype="tokens">Wooden fence</Classes>
+		<History>A cheap structure in wood to keep your animals or fields</History>
+		<Icon>structures/block_4_ico.png</Icon>
+		<RequiredTechnology disable=""/>
+	</Identity>
+	<Obstruction>
+		<Static width="8.0" depth="2.0"/>
+	</Obstruction>
+	<StatusBars>
+		<HeightOffset>9.0</HeightOffset>
+	</StatusBars>
+	<TerritoryDecay disable=""/>
+	<TerritoryInfluence disable=""/>
+	<VisualActor>
+		<Actor>structures/block_4.xml</Actor>
+		<FoundationActor>structures/fndn_1x1pal.xml</FoundationActor>
+	</VisualActor>
+	<WallPiece>
+		<Length>4.0</Length>
+	</WallPiece>
+</Entity>
