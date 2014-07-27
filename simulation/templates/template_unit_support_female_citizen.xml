@@ -38,7 +38,7 @@
       structures/{civ}_temple
       structures/{civ}_market
       structures/{civ}_civil_centre
-	  other/block_4_entity
+      other/fence_basic_entity
     </Entities>
   </Builder>
   <Cost>

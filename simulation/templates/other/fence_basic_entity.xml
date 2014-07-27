@@ -20,7 +20,7 @@
 		<GenericName>Small fence</GenericName>
 		<Classes datatype="tokens">Wooden fence</Classes>
 		<History>A cheap structure in wood to keep your animals or fields</History>
-		<Icon>structures/block_4_ico.png</Icon>
+		<Icon>structures/fence_basic_ico.png</Icon>
 		<RequiredTechnology disable=""/>
 	</Identity>
 	<Obstruction>
@@ -32,7 +32,7 @@
 	<TerritoryDecay disable=""/>
 	<TerritoryInfluence disable=""/>
 	<VisualActor>
-		<Actor>structures/block_4.xml</Actor>
+		<Actor>structures/fence_basic.xml</Actor>
 		<FoundationActor>structures/fndn_1x1pal.xml</FoundationActor>
 	</VisualActor>
 	<WallPiece>

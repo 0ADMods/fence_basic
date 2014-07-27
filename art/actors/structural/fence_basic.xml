@@ -3,9 +3,9 @@
   <castshadow/>
   <group>
     <variant>
-      <mesh>props/block_4.dae</mesh>
+      <mesh>structural/fence_basic.dae</mesh>
       <textures>
-	    <texture file="props/block_4.png" name="baseTex"/>
+        <texture file="structures/fence_basic.png" name="baseTex"/>
 	  </textures>
     </variant>
   </group>
